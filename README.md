@@ -1,13 +1,14 @@
 # CPNT 200-a4 - Vue Components and Directives
 ## Author: 
-:sparkles Mysia Santana:sparkles
+:sparkles:Mysia Santana:sparkles:
 
 ## Links:
-* GH repo: https://github.com/Mysia14/cpnt200-
+* GH repo: https://github.com/Mysia14/cpnt200-a4
 * Netlify page:[Netlify App](/) 
 
  #### Code Review:
- - I had some diffiulties wiht the Nuxtjs setup as well the Vuetify, which made me delete my old repo e rebuild it.
+ - One the things that I have found interesting it was the usability of the components.:thumbsup:
+ - I had  diffiulties the think how to setting up the some v-syntax. I believe that I would need more time to undertand better. So even understanding the usuability of the components and the Vue Syntax it was a lillte hard to work on it. I will have to study more about in another moment, wiht no "due dates".
  - I aldo had many vulnerabilities while downloading the dependiecies and even using "npm audit fix" I wasnt able to fixe them all.
  
 

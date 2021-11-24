@@ -7,9 +7,8 @@
 * Netlify page:[Netlify App](/) 
 
  #### Code Review:
- - One the things that I have found interesting it was the usability of the components.:thumbsup:
- - I had  diffiulties the think how to setting up the some v-syntax. I believe that I would need more time to undertand better. So even understanding the usuability of the components and the Vue Syntax it was a lillte hard to work on it. I will have to study more about in another moment, wiht no "due dates".
- - I aldo had many vulnerabilities while downloading the dependiecies and even using "npm audit fix" I wasnt able to fixe them all.
+ :thumbsup: One the things that I have found interesting it was the usability of the components.
+ :disappointed:I had  diffiulties the think how to setting up the some v-syntax. I believe that I would need more time to undertand better. So even understanding the usuability of the components and the Vue Syntax it was a lillte hard to work on it. I will have to study more about in another moment, wiht no "due dates".
  
 
 

@@ -1,6 +1,6 @@
 <template>
-  <v-container class="flex justify-center align-center flex-col text-center p-3 bg-red-300">
-    <h1 class="p-10 text-5xl font-bold font-sans md:font-serif">{{ headerPage.title }}</h1>
+  <v-container class="flex justify-center align-center flex-col text-center text-red-900 bg-red-300">
+    <h1 class="p-10 text-5xl font-sans md:font-serif">{{ headerPage.title }}</h1>
     <Navigation />
   </v-container>
 </template>

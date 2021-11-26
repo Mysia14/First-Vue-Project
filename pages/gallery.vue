@@ -1,6 +1,5 @@
 <template>
   <v-container> 
-      <h1 class="text-1xl" > </h1>
     <Header :headerPage="info" />
       <v-main>
         <Gallery v-for="content in contents" :key="content.id" :galleryPage="content" />
@@ -14,42 +13,32 @@ export default {
     return {
       info: {
         title: ' Some Delicious Meals',
-        description: 'We eat wiht the eyes too',
+        description: 'We eat wiht the our eyes too',
         author: 'Mysia Santana',
         license: 'MIT License'
       },
       contents: [
         {
-          location: 'Highland, United Kingdom',
-          photographer: 'Gabriela Palai',
-          account: 'https://www.pexels.com/@gabriela-palai-129458',
-          image: 'images/uk.jpg',
-          description: 'Famous train track from the film Harry Potter.',
-          title: 'Train Track in Harry Potter'
+          ingredients: "Tomato sauce, cheese and basil.",
+          image:"assets/images/italian.jpg",
+          name:"Pizza",
+         
         },
         {
-          location: 'Machu Pichu, Peru',
-          photographer: 'Errin Casano',
-          account: 'https://www.pexels.com/@errin-casano-1240439',
-          image: 'images/peru.jpg',
-          description: 'Foggy view from the top of Machu Pichu.',
-          title: 'Top View of Machu Pichu'
+          ingredients: "Tomatoes, onion, feta cheese and peppers.",
+          image:"assets/images/greek.jpg",
+          name:"Greek salad",
+          
         },
         {
-          location: 'Amsterdam, Nethderlands',
-          photographer: 'Pierre Blaché',
-          account: 'https://www.pexels.com/@pierre-blache-651604',
-          image: 'images/canal.jpg',
-          description: 'Romantic canal in Europe.',
-          title: 'Canal in Amsterdam'
+          ingredients: "Grounded beef, spices and cilantro.",
+          image:"assets/images/mexican.jpg",
+          name:"Tacos",
         },
         {
-          location: 'French Polynesia',
-          photographer: 'Julius Silver',
-          account: 'https://www.pexels.com/@julius-silver-240301',
-          image: 'images/french-polynesia.jpg',
-          description: 'Beach with mountains',
-          title: 'Beautiful beach with mountains'
+          ingredients: "Fresh Fish.",
+          image:"assets/images/japanese.jpg",
+          name:"Sushi",
         }
       ]
     }

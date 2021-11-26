@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <Header :headerPage="info" />
-    <h1 class="text-7xl p-7 text-center text-red-300"> International Food list </h1>
+    <h1 class="text-4xl p-7 text-center text-red-600"> Popular International Foods </h1>
     <Content v-for="food in foods" :key="food.id" :contentPage="food" />
     <Footer :footerPage="info" />
   </v-container>
@@ -19,28 +19,24 @@ export default {
       },
       contents: [
         {
-          country: 'Indian',
-          name: 'Gabriela Palai',
-          ingredients: 'https://www.pexels.com/@gabriela-palai-129458',
-          url: 'uk.jpg'
+          ingredients: "tomato sauce, cheese and basil",
+          image:"assets/images/mexican.jpg",
+          food:"tacos",
         },
         {
-          country: 'Indian',
-          name: 'Gabriela Palai',
-          ingredients: 'https://www.pexels.com/@gabriela-palai-129458',
-          url: 'uk.jpg'
+          ingredients: "tomato sauce, cheese and basil",
+          image:"assets/images/mexican.jpg",
+          food:"pizza",
         },
         {
-          country: 'Indian',
-          name: 'Gabriela Palai',
-          ingredients: 'https://www.pexels.com/@gabriela-palai-129458',
-          url: 'uk.jpg'
+          ingredients: "tomato sauce, cheese and basil",
+          image:"assets/images/mexican.jpg",
+          food:"pizza",
         },
         {
-          country: 'Indian',
-          name: 'Gabriela Palai',
-          ingredients: 'https://www.pexels.com/@gabriela-palai-129458',
-          url: 'uk.jpg'
+          ingredients: "tomato sauce, cheese and basil",
+          image:"assets/images/mexican.jpg",
+          food:"pizza",
         }
       ],
       foods: [
@@ -54,10 +50,11 @@ export default {
         },
         {
           food: 'Tacos',
-          country: 'Mexico'
+          country: 'Mexico',
+          image:"images/mexican.jpg",
         },
         {
-          food: ' Greek Salada',
+          food: 'Greek Salad',
           country: 'Greece'
         }
       ]

@@ -3,8 +3,8 @@
 :sparkles:Mysia Santana:sparkles:
 
 ## Links:
-* GH repo: https://github.com/Mysia14/cpnt200-a4
-* Netlify page:[Netlify App](https://thirsty-leakey-aa78a4.netlify.app) 
+* [GH repo](https://github.com/Mysia14/cpnt200-a4)
+* [Netlify App](https://thirsty-leakey-aa78a4.netlify.app) 
 
  #### Code Review:
 
@@ -13,7 +13,7 @@
 
 
 ## Attributions:
-* [Fesal Badday](https://github.com/FesalBadday/) and [Evan](https://github.com/Rankorrdagod) to help with some issues wiht my Nuxt Images.
+* [Fesal Badday](https://github.com/FesalBadday/) and [Evan](https://github.com/Rankorrdagod) to help with some issues with my Nuxt Images.
 * [Ashlyn Knox](https://github.com/lilyx13) wiht the code structure.
 
 

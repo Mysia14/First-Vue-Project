@@ -1,7 +1,7 @@
 <template>
   <v-container>
     <Header :headerPage="info" />
-    <h1 class="text-4xl p-7 text-center text-red-600"> Popular International Foods </h1>
+    <h1 class="text-4xl p-12 text-center text-red-600"> Favourites International Foods </h1>
     <Content v-for="food in foods" :key="food.id" :contentPage="food" />
     <Footer :footerPage="info" />
   </v-container>

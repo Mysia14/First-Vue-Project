@@ -14,7 +14,7 @@
 
 
 ## Attributions:
-* [Fesal Badday](https://github.com/FesalBadday/) and [Evan](https://github.com/Rankorrdagod) to help with some issues with my Nuxt Images.
+* [Fesal Badday](https://github.com/FesalBadday/) and [Evan](https://github.com/Rankorrdagod) that helped with my Nuxt Images issuess.
 * [Ashlyn Knox](https://github.com/lilyx13) wiht the code structure.
 
 

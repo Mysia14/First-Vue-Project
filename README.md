@@ -8,8 +8,9 @@
 
  #### Code Review:
 
- :thumbsup: One the things that I have found interesting it was the usability of the components and how thay work.
- :disappointed:I had some diffiulties the think how to setting up the some v-syntax. I believe that more I work with more easier will be. It was a good activity although I could do it withou some help, even wiht some syntax and some images display. Anyways, even with some issus I really enjoy work with. And deploying wiht the Netlify it's became more smooth after the last 3 assignments.
+ :thumbsup: What I have like most about this projectt was the usability of the components and how they work.
+ :disappointed:I had some diffiulties the figure out how to setting up some v-syntax. I believe that more I work with more easier will be. 
+ It was a good activity although I couldn't do it without some help with some syntax and some images display. Anyways, even with some issues I really enjoy work with. And deploying wiht the Netlify it's became more smooth after the last 3 assignments.
 
 
 ## Attributions:

@@ -4,15 +4,17 @@
 
 ## Links:
 * GH repo: https://github.com/Mysia14/cpnt200-a4
-* Netlify page:[Netlify App](/) 
+* Netlify page:[Netlify App](https://thirsty-leakey-aa78a4.netlify.app) 
 
  #### Code Review:
- :thumbsup: One the things that I have found interesting it was the usability of the components.
- :disappointed:I had  diffiulties the think how to setting up the some v-syntax. I believe that I would need more time to undertand better. So even understanding the usuability of the components and the Vue Syntax it was a lillte hard to work on it. I will have to study more about in another moment, wiht no "due dates".
- 
+
+ :thumbsup: One the things that I have found interesting it was the usability of the components and how thay work.
+ :disappointed:I had some diffiulties the think how to setting up the some v-syntax. I believe that more I work with more easier will be. It was a good activity although I could do it withou some help, even wiht some syntax and some images display. Anyways, even with some issus I really enjoy work with. And deploying wiht the Netlify it's became more smooth after the last 3 assignments.
 
 
 ## Attributions:
+* [Fesal Badday](https://github.com/FesalBadday/) and [Evan](https://github.com/Rankorrdagod) to help with some issues wiht my Nuxt Images.
+* [Ashlyn Knox](https://github.com/lilyx13) wiht the code structure.
 
 
 ## Build Setup
